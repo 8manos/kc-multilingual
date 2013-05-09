@@ -861,7 +861,7 @@ jQuery(document).ready(function($) {
 				'widget_archives', 'widget_calendar', 'widget_nav_menu',
 				'widget_links', 'widget_pages', 'widget_meta', 'widget_pages',
 				'widget_recent-comments', 'widget_recent-posts', 'widget_rss',
-				'widget_search', 'widget_tag_cloud', 'widget_text'
+				'widget_search', 'widget_tag_cloud', 'widget_text', 'widget_mncrm'
 			)
 			as $widget
 		) {
